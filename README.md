@@ -7,7 +7,7 @@ Dataset berisi 2 kelas gambar:
 
 Struktur Direktori:
 
-![Screenshot 2025-04-28 192449](https://github.com/user-attachments/assets/d45efb70-0c74-4e44-bf62-05bf88bb8af2)
+![Screenshot 2025-04-28 192449](https://github.com/user-attachments/assets/495f0df2-0ec2-4eb3-95f3-e5302947b365)
 
 
 ## Alur Kerja
